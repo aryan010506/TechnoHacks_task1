@@ -4,7 +4,7 @@
 A modern, dark-themed calculator built using Tkinter — Python’s standard GUI toolkit. This interactive calculator supports basic arithmetic operations, keyboard input, theme switching, and live calculation history. All in one lightweight, fully frontend-based desktop application.
 
 📸 Preview
-
+![Image](https://github.com/user-attachments/assets/ccc873d9-5e33-4600-b9b0-ac6ecd21b8ef)
 
 🚀 Features
 ✅ Basic arithmetic operations (+, -, *, /)
