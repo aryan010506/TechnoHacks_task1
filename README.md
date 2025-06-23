@@ -7,11 +7,17 @@ A modern, dark-themed calculator built using Tkinter — Python’s standard GUI
 ![Image](https://github.com/user-attachments/assets/ccc873d9-5e33-4600-b9b0-ac6ecd21b8ef)
 
 🚀 Features
+
 ✅ Basic arithmetic operations (+, -, *, /)
+
 ✅ Clean and responsive user interface
+
 ✅ Calculation history panel
+
 ✅ Dark/Light theme toggle
+
 ✅ Keyboard input support
+
 ✅ No backend, no external libraries required
 
 🛠️ Technologies Used
